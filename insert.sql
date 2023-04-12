@@ -19,5 +19,4 @@ INSERT INTO channels_users (user_id, channel_id) VALUES
 -- TO INSERT OR UPDATE MESSAGES DATA
 
 INSERT INTO messages (channels_users_id, content) VALUES
-  ("f899f589-d973-11ed-8870-f02f74899804", "Okidoki"),
-  ("f899f589-d973-11ed-8870-f02f74899804", "Hello world new message I am");
+  ("f899f76b-d973-11ed-8870-f02f74899804", "New message from me jejest");
