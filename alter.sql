@@ -1,0 +1,4 @@
+-- TO UPDATE A TABLE
+use chat;
+
+ALTER TABLE users MODIFY name VARCHAR(50) NOT NULL;
