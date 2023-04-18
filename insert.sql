@@ -13,10 +13,9 @@ INSERT INTO channels (name, description) VALUES
 -- TO INSERT OR UPDATE CHANNELS_USERS DATA
 
 INSERT INTO channels_users (user_id, channel_id) VALUES
-  ("634443d6-d973-11ed-8870-f02f74899804", "c606d1f8-d973-11ed-8870-f02f74899804"),
-  ("634443d6-d973-11ed-8870-f02f74899804", "c606d395-d973-11ed-8870-f02f74899804");
+  ("a98d2a34-de27-11ed-8b96-cef76c37cd5e", "ad356606-de27-11ed-8b96-cef76c37cd5e");
 
 -- TO INSERT OR UPDATE MESSAGES DATA
 
 INSERT INTO messages (channels_users_id, content) VALUES
-  ("f899f76b-d973-11ed-8870-f02f74899804", "New message from me jejest");
+  ("6ba42a57-de29-11ed-8b96-cef76c37cd5e", "New message from me, Derek and the channel you are trying to connect");
